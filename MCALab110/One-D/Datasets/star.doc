@@ -1,0 +1,12 @@
+star.asc -- Bloomfield's variable star data
+
+Access
+	star = InputSignal('Star');
+
+Size
+	600 by 1
+
+Description
+	
+Source
+	See Bloomfield

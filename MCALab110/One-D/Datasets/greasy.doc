@@ -1,0 +1,16 @@
+greasy.asc -- Recording of the word "greasy"
+
+Access
+    greasy = InputSignal('Greasy');
+ 
+Size
+    8192 by 1
+
+Decription
+    The recording of the word "greasy" pronounced by a woman,
+    sampled at 16kHz.
+   
+Source
+    See Mallat and Zhang's 1993 article on Matching Pursuit.
+
+ 

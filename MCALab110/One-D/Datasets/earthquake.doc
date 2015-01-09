@@ -1,0 +1,11 @@
+earthquake.asc -- Recording from the LA earthquake in 1993
+
+Access
+	earthquake = InputSignal('Earthquake');
+
+Size
+	1464 by 1	
+Description
+	
+Source
+	
